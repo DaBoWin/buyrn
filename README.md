@@ -1,7 +1,8 @@
-# 自动抢购RN VPS
+Automatically Purchase RN VPS
+This is a simple RN VPS auto-bidding Greasemonkey script
 
-这是一个简单的自动抢购RN VPS油猴脚本
+## Preparations
+1. First, log in to RN on Chrome, ensuring that the Tampermonkey script is enabled.
+2. The script code needs to set the product ID to be purchased, which is the pid, and then click to save.
+3. Access the RN product link via Chrome, for example:Automatically Purchase RN VPS
 
-## 准备工作
-1. chrome先登录rn
-2. 设置需要抢购的产品id即pid
